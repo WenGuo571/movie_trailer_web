@@ -1,4 +1,4 @@
-#FSND Project 1 — Movie Trailer Web
+##FSND Project 1 — Movie Trailer Web
 
 ###Quick start
 Put all files within one folder.
