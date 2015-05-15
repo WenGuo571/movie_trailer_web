@@ -1,16 +1,16 @@
 #FSND Project 1 — Movie Trailer Web
 
-##Quick start
+###Quick start
 Put all files within one folder.
 
-##What's included
+###What's included
 movie_trailer_web/    
 |--- entertainment_center.py    
 |--- fresh_tomatoes.py    
 |--- media.py    
 |--- README    
 
-##Running locally    
+###Running locally    
 1. run in terminal:    
     (1). go to source code folder    
     (2). input command: python entertainment_center.py    
@@ -21,9 +21,9 @@ movie_trailer_web/
     (1). open entertainment_center.py with your IDE    
     (2). run file    
 
-##Result:
+###Result:
 1. fresh_tomatoes.html created    
 2. fresh_tomatoes.html opened with your default web browser    
 
-##Creator   
+###Creator   
 WEN GUO
